@@ -1,0 +1,162 @@
+[Speed Sensor] Speed | Speed: 53.37 km/h | Timestamp: 2024-11-29 05:17:05
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 43 | Timestamp: 2024-11-29 05:17:05
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:05
+[Speed Sensor] Speed | Speed: 35.52 km/h | Timestamp: 2024-11-29 05:17:11
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 6 | Timestamp: 2024-11-29 05:17:11
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:11
+[Speed Sensor] Speed | Speed: 86.89 km/h | Timestamp: 2024-11-29 05:17:17
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 188 | Timestamp: 2024-11-29 05:17:17
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:17
+[Speed Sensor] Speed | Speed: 99.47 km/h | Timestamp: 2024-11-29 05:17:23
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 139 | Timestamp: 2024-11-29 05:17:23
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:23
+[Speed Sensor] Speed | Speed: 96.52 km/h | Timestamp: 2024-11-29 05:17:30
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 169 | Timestamp: 2024-11-29 05:17:30
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:30
+[Speed Sensor] Speed | Speed: 85.34 km/h | Timestamp: 2024-11-29 05:17:36
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 117 | Timestamp: 2024-11-29 05:17:36
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:36
+[Speed Sensor] Speed | Speed: 69.51 km/h | Timestamp: 2024-11-29 05:17:42
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 72 | Timestamp: 2024-11-29 05:17:42
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:42
+[Speed Sensor] Speed | Speed: 62.82 km/h | Timestamp: 2024-11-29 05:17:48
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 29 | Timestamp: 2024-11-29 05:17:48
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:48
+[Speed Sensor] Speed | Speed: 61.01 km/h | Timestamp: 2024-11-29 05:17:54
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 103 | Timestamp: 2024-11-29 05:17:54
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:17:54
+[Speed Sensor] Speed | Speed: 97.01 km/h | Timestamp: 2024-11-29 05:18:00
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 193 | Timestamp: 2024-11-29 05:18:00
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:18:00
+[Speed Sensor] Speed | Speed: 51.62 km/h | Timestamp: 2024-11-29 05:18:06
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 95 | Timestamp: 2024-11-29 05:18:06
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:18:06
+[Speed Sensor] Speed | Speed: 90.09 km/h | Timestamp: 2024-11-29 05:19:46
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 118 | Timestamp: 2024-11-29 05:19:46
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:19:46
+[Speed Sensor] Speed | Speed: 79.36 km/h | Timestamp: 2024-11-29 05:19:52
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 197 | Timestamp: 2024-11-29 05:19:52
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:19:52
+[Speed Sensor] Speed | Speed: 81.90 km/h | Timestamp: 2024-11-29 05:19:58
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 181 | Timestamp: 2024-11-29 05:19:58
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:19:58
+[Speed Sensor] Speed | Speed: 50.96 km/h | Timestamp: 2024-11-29 05:20:04
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 51 | Timestamp: 2024-11-29 05:20:04
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:04
+[Speed Sensor] Speed | Speed: 97.94 km/h | Timestamp: 2024-11-29 05:20:10
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 146 | Timestamp: 2024-11-29 05:20:10
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:10
+[Speed Sensor] Speed | Speed: 45.73 km/h | Timestamp: 2024-11-29 05:20:16
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 121 | Timestamp: 2024-11-29 05:20:16
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:16
+[Speed Sensor] Speed | Speed: 90.31 km/h | Timestamp: 2024-11-29 05:20:22
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 80 | Timestamp: 2024-11-29 05:20:22
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:22
+[Speed Sensor] Speed | Speed: 44.29 km/h | Timestamp: 2024-11-29 05:20:28
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 11 | Timestamp: 2024-11-29 05:20:28
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:28
+[Speed Sensor] Speed | Speed: 30.00 km/h | Timestamp: 2024-11-29 05:20:34
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 8 | Timestamp: 2024-11-29 05:20:34
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:34
+[Speed Sensor] Speed | Speed: 39.76 km/h | Timestamp: 2024-11-29 05:20:40
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 40 | Timestamp: 2024-11-29 05:20:40
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:40
+[Speed Sensor] Speed | Speed: 49.13 km/h | Timestamp: 2024-11-29 05:20:46
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 81 | Timestamp: 2024-11-29 05:20:46
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:46
+[Speed Sensor] Speed | Speed: 71.64 km/h | Timestamp: 2024-11-29 05:20:52
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 8 | Timestamp: 2024-11-29 05:20:52
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:52
+[Speed Sensor] Speed | Speed: 75.54 km/h | Timestamp: 2024-11-29 05:20:58
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 92 | Timestamp: 2024-11-29 05:20:58
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:20:58
+[Speed Sensor] Speed | Speed: 90.43 km/h | Timestamp: 2024-11-29 05:21:04
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 79 | Timestamp: 2024-11-29 05:21:04
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:04
+[Speed Sensor] Speed | Speed: 98.60 km/h | Timestamp: 2024-11-29 05:21:10
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 31 | Timestamp: 2024-11-29 05:21:10
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:10
+[Speed Sensor] Speed | Speed: 45.55 km/h | Timestamp: 2024-11-29 05:21:16
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 106 | Timestamp: 2024-11-29 05:21:16
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:16
+[Speed Sensor] Speed | Speed: 47.38 km/h | Timestamp: 2024-11-29 05:21:22
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 148 | Timestamp: 2024-11-29 05:21:22
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:22
+[Speed Sensor] Speed | Speed: 95.07 km/h | Timestamp: 2024-11-29 05:21:29
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 84 | Timestamp: 2024-11-29 05:21:29
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:29
+[Speed Sensor] Speed | Speed: 32.42 km/h | Timestamp: 2024-11-29 05:21:35
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 111 | Timestamp: 2024-11-29 05:21:35
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:35
+[Speed Sensor] Speed | Speed: 49.78 km/h | Timestamp: 2024-11-29 05:21:41
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 58 | Timestamp: 2024-11-29 05:21:41
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:41
+[Speed Sensor] Speed | Speed: 56.88 km/h | Timestamp: 2024-11-29 05:21:47
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 186 | Timestamp: 2024-11-29 05:21:47
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:47
+[Speed Sensor] Speed | Speed: 82.14 km/h | Timestamp: 2024-11-29 05:21:53
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 22 | Timestamp: 2024-11-29 05:21:53
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:53
+[Speed Sensor] Speed | Speed: 76.07 km/h | Timestamp: 2024-11-29 05:21:59
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 23 | Timestamp: 2024-11-29 05:21:59
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:21:59
+[Speed Sensor] Speed | Speed: 98.16 km/h | Timestamp: 2024-11-29 05:22:05
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 12 | Timestamp: 2024-11-29 05:22:05
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:05
+[Speed Sensor] Speed | Speed: 63.84 km/h | Timestamp: 2024-11-29 05:22:11
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 143 | Timestamp: 2024-11-29 05:22:11
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:11
+[Speed Sensor] Speed | Speed: 41.43 km/h | Timestamp: 2024-11-29 05:22:17
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 166 | Timestamp: 2024-11-29 05:22:17
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:17
+[Speed Sensor] Speed | Speed: 38.21 km/h | Timestamp: 2024-11-29 05:22:23
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 163 | Timestamp: 2024-11-29 05:22:23
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:23
+[Speed Sensor] Speed | Speed: 80.56 km/h | Timestamp: 2024-11-29 05:22:29
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 135 | Timestamp: 2024-11-29 05:22:29
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:29
+[Speed Sensor] Speed | Speed: 34.13 km/h | Timestamp: 2024-11-29 05:22:35
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 90 | Timestamp: 2024-11-29 05:22:35
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:35
+[Speed Sensor] Speed | Speed: 35.35 km/h | Timestamp: 2024-11-29 05:22:41
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 189 | Timestamp: 2024-11-29 05:22:41
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:41
+[Speed Sensor] Speed | Speed: 81.99 km/h | Timestamp: 2024-11-29 05:22:47
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 129 | Timestamp: 2024-11-29 05:22:47
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:47
+[Speed Sensor] Speed | Speed: 72.79 km/h | Timestamp: 2024-11-29 05:22:53
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 107 | Timestamp: 2024-11-29 05:22:53
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:53
+[Speed Sensor] Speed | Speed: 72.28 km/h | Timestamp: 2024-11-29 05:22:59
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 5 | Timestamp: 2024-11-29 05:22:59
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:22:59
+[Speed Sensor] Speed | Speed: 39.88 km/h | Timestamp: 2024-11-29 05:23:05
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 4 | Timestamp: 2024-11-29 05:23:05
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:05
+[Speed Sensor] Speed | Speed: 78.74 km/h | Timestamp: 2024-11-29 05:23:11
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 6 | Timestamp: 2024-11-29 05:23:11
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:11
+[Speed Sensor] Speed | Speed: 37.67 km/h | Timestamp: 2024-11-29 05:23:17
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 149 | Timestamp: 2024-11-29 05:23:17
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:17
+[Speed Sensor] Speed | Speed: 70.03 km/h | Timestamp: 2024-11-29 05:23:23
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 192 | Timestamp: 2024-11-29 05:23:23
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:23
+[Speed Sensor] Speed | Speed: 46.27 km/h | Timestamp: 2024-11-29 05:23:29
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 162 | Timestamp: 2024-11-29 05:23:29
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:29
+[Speed Sensor] Speed | Speed: 35.99 km/h | Timestamp: 2024-11-29 05:23:35
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 156 | Timestamp: 2024-11-29 05:23:35
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:35
+[Speed Sensor] Speed | Speed: 86.43 km/h | Timestamp: 2024-11-29 05:23:41
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 89 | Timestamp: 2024-11-29 05:23:41
+[Temperature Sensor 1] Temperature | Temperature: 0.00°C | Timestamp: 2024-11-29 05:23:41
+[Speed Sensor] Speed | Speed: 89.79 km/h | Timestamp: 2024-11-29 05:24:06
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 42 | Timestamp: 2024-11-29 05:24:06
+[Temperature Sensor 1] Temperature | Temperature: 14.99°C | Timestamp: 2024-11-29 05:24:06
+[Speed Sensor] Speed | Speed: 62.85 km/h | Timestamp: 2024-11-29 05:24:12
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 77 | Timestamp: 2024-11-29 05:24:12
+[Temperature Sensor 1] Temperature | Temperature: 10.29°C | Timestamp: 2024-11-29 05:24:12
+[Speed Sensor] Speed | Speed: 52.78 km/h | Timestamp: 2024-11-29 05:24:18
+[Vehicle Count Sensor] Vehicle Count | Vehicles: 63 | Timestamp: 2024-11-29 05:24:18
+[Temperature Sensor 1] Temperature | Temperature: 16.28°C | Timestamp: 2024-11-29 05:24:18

@@ -1,4 +1,11 @@
 package org.example;
 
-public class Sensor {
+public abstract class Sensor {
+    protected String sensorName;
+
+    public Sensor(String sensorName) {
+        this.sensorName = sensorName;
+    }
+
+    public abstract TrafficData generateData();
 }
