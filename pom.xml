@@ -12,6 +12,7 @@
         <module>CentralServer</module>
         <module>TrafficNode</module>
         <module>TrafficDashboard</module>
+        <module>TrafficDashboardWeb</module>
     </modules>
 
     <dependencies>

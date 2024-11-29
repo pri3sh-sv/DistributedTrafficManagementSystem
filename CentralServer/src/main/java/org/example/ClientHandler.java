@@ -20,7 +20,9 @@ public class ClientHandler implements Runnable {
             String data;
             while ((data = in.readLine()) != null) {
                 System.out.println("Received from client " + clientId + ": " + data);
-                writeDataToFile(data);
+                if(data.contains("[Speed Sensor]") || data.contains("[Vehicle Count Sensor]") || data.contains("[Temperature Sensor 1]")) {
+                    writeDataToFile("Traffic Node "+clientId+" : "+data);
+                }
             }
         } catch (IOException e) {
             System.err.println("Error handling client " + clientId + ": " + e.getMessage());
