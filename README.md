@@ -22,3 +22,6 @@ This will generate the JAR files for each module
 1. `centralserver.jar`: Contains the server-side logic, WebSocket server.
 2. `trafficnode.jar`: Contains the sensor node logic that simulates traffic data generation and transmission.
 3. `trafficdashboard.jar`: Contains the dashboard logic to see the traffic data.
+
+Make sure to run the `centralserver.jar` first and then run `trafficnode.jar` and `trafficdashboard.jar`. 
+
